@@ -1,0 +1,4 @@
+cd /
+cd ni-rt
+cd system
+put 2619-FrisbeeBot/Debug/2619-FrisbeeBot.out FRC_UserProgram.out
